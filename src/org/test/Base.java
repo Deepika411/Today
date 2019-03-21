@@ -9,4 +9,8 @@ private void two() {
 	System.out.println("two");
 
 }
+private void four() {
+	System.out.println("four");
+
+}
 }
